@@ -64,6 +64,7 @@ Figma-inspired UI design for professional visual alignment
 
 
 📷 Dashboard Preview
+
 Overview Page:
 ![Image](https://github.com/user-attachments/assets/4d9b74d0-6000-42c3-89f8-7df529e1aa16)
 
@@ -75,7 +76,7 @@ Budget Page:
 
 
 
-##🚀 How to Use
+## 🚀 How to Use
 
 Download the .pbix file from this repository.
 
