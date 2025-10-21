@@ -71,7 +71,7 @@ Timeline Page:
 ![Image](https://github.com/user-attachments/assets/4a488666-4a2a-4368-abd5-be721d43d790)
 
 Budget Page:
-![Image](https://github.com/user-attachments/assets/3e34e314-ad17-49f0-afa4-635f66b196be)
+![Image](https://github.com/user-attachments/assets/bcf9d4bb-571d-4565-a789-fc2d438bd185)
 
 
 
