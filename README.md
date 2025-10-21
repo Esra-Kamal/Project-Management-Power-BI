@@ -75,7 +75,7 @@ Budget Page:
 
 
 
-🚀 How to Use
+##🚀 How to Use
 
 Download the .pbix file from this repository.
 
